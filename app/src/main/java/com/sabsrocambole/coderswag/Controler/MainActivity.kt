@@ -8,6 +8,7 @@ import android.widget.ListView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.sabsrocambole.codderswag2.R
 import com.sabsrocambole.coderswag.Adapters.CategoryAdapter
 import com.sabsrocambole.coderswag.Adapters.CategoryRecycleAdapter
 import com.sabsrocambole.coderswag.Model.Category
